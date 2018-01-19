@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="test_niranjan" max_length="40" name="x_58872_needit_test" type="collection">
+        <element attributes="import_attribute_name=Device Number,edge_encryption_enabled=true" label="Device Number" max_length="40" name="u_device_number" type="string"/>
+        <element attributes="import_attribute_name=Device Owner,edge_encryption_enabled=true" label="Device Owner" max_length="40" name="u_device_owner" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Owner Location,edge_encryption_enabled=true" label="Owner Location" max_length="42" name="u_owner_location" type="string"/>
+        <element attributes="import_attribute_name=Support Group,edge_encryption_enabled=true" label="Support Group" max_length="40" name="u_support_group" type="string"/>
+    </element>
+</database>
